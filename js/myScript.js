@@ -1,4 +1,4 @@
-d3.select('h1').text('Hello D3!');
+// d3.select('h1').text('Hello D3!');
 
 
 // const width = 700;
